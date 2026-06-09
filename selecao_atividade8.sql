@@ -1,0 +1,1 @@
+-- Active: 1780941416778@@mysql-1c959a5e-estudante-af5b.h.aivencloud.com@18971@Supermercado_XYZ
